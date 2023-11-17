@@ -6,4 +6,4 @@ while True:
     story += line + '\n'
 
 print('The new chapter of story')
-print(story)
+print(story) 
