@@ -3,6 +3,7 @@ speed("fastest")
 bgcolor("blue")
 pencolor('yellow')
 pensize(3)
+bgpic
 
 for i in range(1, 200, 5):
  fd(i)
